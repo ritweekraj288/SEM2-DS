@@ -1,0 +1,4 @@
+Alice 101 ComputerScience
+Bob 102 Electronics
+Alice 103 Electrical
+Charlie 104 Mechanical
